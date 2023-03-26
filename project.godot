@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Xspace"
+run/main_scene="res://Levels/Main_Menu.tscn"
 config/features=PackedStringArray("4.0", "GL Compatibility")
 config/icon="res://icon.svg"
 
